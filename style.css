@@ -20,7 +20,7 @@ color: #ffffff;
 padding-top: 180px;
 }
 .banner-text h1{
-    font-size: 100px;
+    font-size: 90px;
     font-family: 'Kaushan Script', cursive;
 }
 .banner-text p{
@@ -97,7 +97,7 @@ nav ul li a{
 }
 @media screen and (max-width: 770px){
 .banner-text h1{
-    font-size: 14px;
+    font-size: 40px;
     margin-top: 10%;
     position: center;  
     }
