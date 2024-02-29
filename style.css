@@ -360,8 +360,8 @@ header{
     z-index: 1;
     display: inline-block; 
 }
-.details h3{
-    margin-left: 5%;
+.details h2{
+    margin-left: 2%;
 }
 .details img{
     position: relative;
